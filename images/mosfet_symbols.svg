@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="450" width="450">
+ <text y="30.672832" x="137.01622" font-size="24px" font-family="Bitstream Vera Sans,sans-serif">
+  <tspan y="30.672832" x="137.01622" style="text-anchor:middle;text-align:center" font-size="24px">n-Kanal</tspan>
+ </text>
+ <text y="30.672832" x="337.01624" font-size="24px" font-family="Bitstream Vera Sans,sans-serif">
+  <tspan y="30.672832" x="337.01624" style="text-anchor:middle;text-align:center" font-size="24px">p-Kanal</tspan>
+ </text>
+ <g stroke="#000">
+  <path stroke-width="6" d="m135 92v89" fill="none"/>
+  <path d="m133 136 32-10v19l-32-9z" fill-rule="evenodd"/>
+  <g fill="none">
+   <g stroke-linejoin="round" stroke-linecap="round" stroke-width="4">
+    <path d="m198 136h-63"/>
+    <path d="m122 178v-84.3m0 84.3h-39.4m92.4 1v41m0-41h-40m40-84.8v-41.9m0 41.8h-40"/>
+   </g>
+   <path stroke-width="6" d="m335 92v89"/>
+  </g>
+  <path d="m396 136-33-10v19l33-9z" fill-rule="evenodd"/>
+  <g fill="none">
+   <g stroke-linejoin="round" stroke-linecap="round" stroke-width="4">
+    <path d="m388 136h-53"/>
+    <path d="m322 178v-84.3m0 84.3h-39m92 1v41m0-41h-40m40-84.8v-41.9m0 41.8h-40"/>
+   </g>
+   <path stroke-width="6" d="m135 317v34"/>
+  </g>
+  <path d="m133 334 32-10v19l-32-9z" fill-rule="evenodd"/>
+  <g fill="none">
+   <g stroke-linejoin="round" stroke-linecap="round" stroke-width="4">
+    <path d="m198 334h-63"/>
+    <path d="m122 376v-84m0 84h-39.4m92.4 1v41m0-41h-40m40-85v-42m0 42h-40"/>
+   </g>
+   <g stroke-width="6">
+    <path d="m135 360v19"/>
+    <path d="m135 290v19"/>
+    <path d="m335 317v34"/>
+   </g>
+  </g>
+  <path d="m397 334-33-10v19l33-9z" fill-rule="evenodd"/>
+  <g fill="none">
+   <g stroke-linejoin="round" stroke-linecap="round" stroke-width="4">
+    <path d="m386 334h-51"/>
+    <path d="m322 376v-84m0 84h-39m92 1v41m0-41h-40m40-85v-42m0 42h-40"/>
+   </g>
+   <path stroke-width="6" d="m335 360v19"/>
+   <path stroke-width="6" d="m335 290v19"/>
+  </g>
+ </g>
+ <text font-size="28px" transform="rotate(-90)" y="39.979542" x="-136.21973" font-family="Bitstream Vera Sans,sans-serif">
+  <tspan y="39.979542" x="-136.21973" style="text-anchor:middle;text-align:center" font-size="22px">normal leitend</tspan>
+ </text>
+ <text font-size="28px" transform="rotate(-90)" y="39.979542" x="-336.2197" font-family="Bitstream Vera Sans,sans-serif">
+  <tspan y="39.979542" x="-336.2197" style="text-anchor:middle;text-align:center" font-size="22px">normal sperrend</tspan>
+ </text>
+ <g stroke="#2e3436" stroke-opacity=".5" fill="none">
+  <path d="m56.2 6v436m-48.2-399h432m-432 187h432m-200-224v436"/>
+ </g>
+ <g font-size="28px" font-family="Bitstream Vera Sans,sans-serif" fill="#555753">
+  <text y="169.94351" x="67.055779">
+   <tspan y="169.94351" x="67.055779">G</tspan>
+  </text>
+  <text y="70.34848" x="184.76433">
+   <tspan y="70.34848" x="184.76433">D</tspan>
+  </text>
+  <text y="222.2101" x="183.44951">
+   <tspan y="222.2101" x="183.44951">S</tspan>
+  </text>
+  <text y="169.94351" x="267.05579">
+   <tspan y="169.94351" x="267.05579">G</tspan>
+  </text>
+  <text y="70.34848" x="384.76434">
+   <tspan y="70.34848" x="384.76434">D</tspan>
+  </text>
+  <text y="222.2101" x="383.44952">
+   <tspan y="222.2101" x="383.44952">S</tspan>
+  </text>
+  <text y="367.94351" x="267.05579">
+   <tspan y="367.94351" x="267.05579">G</tspan>
+  </text>
+  <text y="268.34848" x="384.76434">
+   <tspan y="268.34848" x="384.76434">D</tspan>
+  </text>
+  <text y="420.21008" x="383.44952">
+   <tspan y="420.21008" x="383.44952">S</tspan>
+  </text>
+  <text y="367.94351" x="67.055779">
+   <tspan y="367.94351" x="67.055779">G</tspan>
+  </text>
+  <text y="268.34848" x="184.76433">
+   <tspan y="268.34848" x="184.76433">D</tspan>
+  </text>
+  <text y="420.21008" x="183.44951">
+   <tspan y="420.21008" x="183.44951">S</tspan>
+  </text>
+ </g>
+</svg>
