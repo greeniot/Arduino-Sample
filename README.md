@@ -93,7 +93,7 @@ int leds[10][7] = {{1, 1, 1, 1, 1, 1, 0},
                    {1, 1, 1, 1, 1, 1, 1},
                    {1, 1, 1, 1, 0, 1, 1}};
 ```
-For example the digit 0 is translated to `{1, 1, 1, 1, 1, 1, 0}` whereby each position states whether the corresponding segment of the display should be enabled or disabled. The function `show(int x)` displays the digit `x` on the display. Therefore it iterates over all segments, looks up the pin number of that segment and enables the segment depending on the corresponding pattern.
+For example the digit 0 is translated to `{1, 1, 1, 1, 1, 1, 0}` whereby each position states whether the corresponding segment of the display should be enabled or disabled. The function `show(int x)` displays the digit `x` on the display. Therefore it iterates over all segments, looks up the pin number of each segment and enables the segment depending on the corresponding pattern.
 ```c++
 void show(int x) {
     for (int i = 0; i < 7; i++) {
